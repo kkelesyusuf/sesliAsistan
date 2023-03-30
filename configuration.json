@@ -1,0 +1,17 @@
+{
+    "personalization": {
+        "user": {
+            "name": "Zehra"
+        }
+    },
+    "speechRecognition": {
+        "language": "tr_TR"
+    },
+    "speechGeneration": {
+        "lang": "tr",
+        "tld": "com.tr",
+        "slow_talk": "false"
+    },
+    "debug_mode": "true",
+    "services": {}
+}

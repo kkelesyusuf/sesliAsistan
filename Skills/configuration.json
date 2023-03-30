@@ -1,0 +1,23 @@
+{
+    "personalization": {
+        "user": {
+            "name": "Zehra   "
+        }
+    },
+    "speechRecognition": {
+        "language": "tr"
+    },
+    "speechGeneration": {
+        "language": "tr",
+        "tld": "com.tr",
+        "slow_talk": "false"
+    },
+    "debug_mode": "true",
+    "services": {
+        "weather": {
+            "cityName" : "Sisli, TR",
+            "latitude" : None,
+            "longtitude" : None
+        }
+    }
+}
